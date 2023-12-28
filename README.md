@@ -1,6 +1,6 @@
 # Seam Carving
-```
-Problem Statement: Apply seam carving content-aware image-resizing algorithm on a given image. Take the output image's height and width (in pixels) as inputs from the user.
+
+## Problem Statement: Apply seam carving content-aware image-resizing algorithm on a given image. Take the output image's height and width (in pixels) as inputs from the user.
 
 What is Seam Carving?
         ◦ Seam-carving is a content-aware image resizing technique where the image is reduced in size by one pixel of height (or width) at a time.
@@ -11,8 +11,6 @@ What is Seam Carving?
             - Seam Identification: Identify the lowest energy seam.
             - Seam Removal: Remove the lowest energy seam.
 
-
-```
 
 How to Run
 
